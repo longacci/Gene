@@ -1,0 +1,2 @@
+,Gene,ACC,Precision,Sp,Sn,f1_Score,AUC,Parameter
+0,"['IL18', 'FER1L3', 'AL157484', 'VPS13C', 'LOC653591', 'IL2RB', 'ABCA1', 'ERVWE1', 'LDLR', 'SYTL3', 'SLC40A1', 'BRI3']",84.76,80.00,87.69,80.00,80.00,91.54,"{'C': 0.1, 'max_iter': 100, 'penalty': 'l2', 'solver': 'newton-cg'}"

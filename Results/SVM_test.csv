@@ -1,0 +1,2 @@
+,Gene,ACC,Precision,Sp,Sn,f1_Score,AUC,Parameter
+0,"['IL18', 'FER1L3', 'AL157484', 'VPS13C', 'LOC653591', 'IL2RB', 'ABCA1', 'ERVWE1', 'LDLR', 'SYTL3', 'SLC40A1', 'BRI3', 'CDAN1', 'OLIG2', 'STAU2', 'MGC24103', 'RNF165', 'BC080552', 'AK124771', 'GPR97']",84.76,80.00,87.69,80.00,80.00,92.50,"{'C': 1, 'gamma': 'auto', 'kernel': 'rbf', 'probability': True, 'random_state': 122}"

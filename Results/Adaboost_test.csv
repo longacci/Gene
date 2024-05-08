@@ -1,0 +1,2 @@
+,Gene,ACC,Precision,Sp,Sn,f1_Score,AUC,Parameter
+0,"['IL18', 'FER1L3', 'AL157484', 'VPS13C', 'LOC653591', 'IL2RB', 'ABCA1', 'ERVWE1', 'LDLR', 'SYTL3', 'SLC40A1', 'BRI3']",83.81,78.05,86.15,80.00,79.01,88.65,"{'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 400}"
